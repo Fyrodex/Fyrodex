@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 Eğer sende benim Gibi olmak istiyorsan [https://discord.gg/oceantr](https://discord.gg/oceantr)
-
 - 📫 Bana Nasil ulaşirsiniz ? **creadyiletisim@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
