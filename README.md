@@ -1,11 +1,6 @@
 <h1 align="center">Merhaba👋 Ben Fyro</h1>
 <h3 align="center">UĞRAMAK, KADERINIZ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=000x16x3b&label=Profile%20views&color=0e75b6&style=flat" alt="000x16x3b" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=000x16x3b" alt="000x16x3b" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 Bana Nasil ulaşirsiniz ? **creadyiletisim@gmail.com**
 
