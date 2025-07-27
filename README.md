@@ -14,4 +14,3 @@
 alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=000x16x3b&show_icons=true&locale=en&layout=compact" alt="000x16x3b" /></p>
