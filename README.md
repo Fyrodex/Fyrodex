@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba👋 Ben Fyro</h1>
-<h3 align="center">UĞRAMAK, KADERINIZ</h3>
+<h3 align="center">Profilime Hoşgeldiniz.</h3>
 
 
 
