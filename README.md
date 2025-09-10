@@ -1,16 +1,49 @@
-<h1 align="center">Merhaba👋 Ben Yusuf Temel</h1>
-<h3 align="center">Profilime Hoşgeldiniz.</h3>
+<h1 align="center">Hey! 👋 Ben Yusuf (Fyrodex)</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+</div>
 
+---
 
+🚀 **Back-End Developer | Python & Automation Enthusiast | Open Source Lover** 🚀  
 
+💡 **Kod yazarken kahve içiyorum, müzik dinliyorum ve sürekli yeni şeyler deniyorum!**  
+🎧 **Lo-Fi beats ile kod akışına giriyorum.**  
+📌 **"Bug değil, undocumented feature!"**  
 
+Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım Python, otomasyon, ve yazılım testidir. Ayrıca müzik dinlemeyi çok seviyorum.
 
+---
 
-- 📫 Bana Nasil Ulaşirsiniz ? **fyrodevcontact@gmail.com**
+### 🚀 Projelerim  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img 
-alt="xd" width="40" height="40"/> </a> </p>
+- 📁 [@Fyrodex/xpath-agent](https://github.com/Fyrodex/xpath-agent): XPath temelli otomasyon ve test aracı.
 
+---
 
+### 🔧 Kullandığım Teknolojiler  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,github,git" />
+</p>
+
+---
+
+📊 GitHub İstatistiklerim
+<div align="center"> 
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Fyrodex&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=e7ffae&text_color=fff"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Fyrodex&theme=dark&hide_border=true&border_radius=20&locale=tr&card_height=208&background=000000&sideNums=EBD20C&ring=DD0000&sideLabels=EBD20C"/>
+</div>
+
+---
+
+### 💬 Bana Ulaşın  
+
+📧 **E-posta:** fyrodex@protonmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yusuf-temel-736b85315](https://www.linkedin.com/in/yusuf-temel-736b85315/)  
+🌐 **Web:** (Soon..)  
+🎵 **Müzik Listem:** (https://open.spotify.com/playlist/5ZzbMtIJrREtrHK9uRuk2C?si=7cc6eb29a692403c)  
+
+> ⚡ **"Kod yazarken, sanat yapıyoruz!"** ⚡  
