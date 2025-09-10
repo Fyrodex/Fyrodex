@@ -6,7 +6,7 @@
 
 ---
 
-🚀 **Back-End Developer | Python & Automation Enthusiast | Open Source Lover** 🚀  
+🚀 **Back-End Developer | Python & Java & Automation Enthusiast | Open Source Lover** 🚀  
 
 💡 **Kod yazarken kahve içiyorum, müzik dinliyorum ve sürekli yeni şeyler deniyorum!**  
 🎧 **Lo-Fi beats ile kod akışına giriyorum.**  
