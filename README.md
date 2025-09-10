@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba👋 Ben Fyro</h1>
+<h1 align="center">Merhaba👋 Ben Yusuf Temel</h1>
 <h3 align="center">Profilime Hoşgeldiniz.</h3>
 
 
