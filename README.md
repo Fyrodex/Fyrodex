@@ -12,7 +12,7 @@
 🎧 **Lo-Fi beats ile kod akışına giriyorum.**  
 📌 **"Bug değil, undocumented feature!"**  
 
-Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım Python, otomasyon, ve yazılım testidir. Ayrıca müzik dinlemeyi çok seviyorum.
+Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım Python,Java,HTML,PHP, Test otomasyonları, ve yazılım testidir. Ayrıca müzik dinlemeyi çok seviyorum.
 
 ---
 
@@ -41,7 +41,7 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 
 ### 💬 Bana Ulaşın  
 
-📧 **E-posta:** fyrodex@protonmail.com  
+📧 **E-posta:** fyrodevcontact@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/yusuf-temel-736b85315](https://www.linkedin.com/in/yusuf-temel-736b85315/)  
 🌐 **Web:** (Soon..)  
 🎵 **Müzik Listem:** (https://open.spotify.com/playlist/5ZzbMtIJrREtrHK9uRuk2C?si=7cc6eb29a692403c)  
