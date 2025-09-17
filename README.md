@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 Ben Yusuf (Fyrodex)</h1>
+# Hey! 👋 Ben Yusuf (Fyrodex)
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
@@ -11,8 +11,8 @@
 💡 **Kod yazarken kahve içiyorum, müzik dinliyorum ve sürekli yeni şeyler deniyorum!**  
 🎧 **Lo-Fi beats ile kod akışına giriyorum.**  
 📌 **"Bug değil, undocumented feature!"**  
-  
-Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım Python,Java,HTML,PHP, Test otomasyonları, ve yazılım testidir. Ayrıca müzik dinlemeyi çok seviyorum.
+
+Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım Python, Java, HTML, PHP, test otomasyonları ve yazılım testidir. Ayrıca müzik dinlemeyi çok severim.
 
 ---
 
@@ -31,11 +31,10 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 
 ---
 
-📊 GitHub İstatistiklerim
-div align="center"> 
-
- <img src="https://github-readme-stats.vercel.app/api?username=Fyrodex&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=e7ffae&text_color=fff"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Fyrodex&theme=dark&hide_border=true&border_radius=20&locale=tr&card_height=208&background=000000&sideNums=EBD20C&ring=DD0000&sideLabels=EBD20C"/>
+### 📊 GitHub İstatistiklerim
+div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fyrodex&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=e7ffae&text_color=fff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fyrodex&theme=dark&hide_border=true&border_radius=20&locale=tr&card_height=208&background=000000&sideNums=EBD20C&ring=DD0000&sideLabels=EBD20C"/>
 </div>
 
 ---
@@ -44,7 +43,7 @@ div align="center">
 
 📧 **E-posta:** fyrodevcontact@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/yusuf-temel-736b85315](https://www.linkedin.com/in/yusuf-temel-736b85315/)  
-🌐 **Web:** (Soon..)  
-🎵 **Müzik Listem:** (https://open.spotify.com/playlist/5ZzbMtIJrREtrHK9uRuk2C?si=7cc6eb29a692403c)  
-  
+🌐 **Web:** (Yakında...)  
+🎵 **Müzik Listem:** [Spotify Playlistim](https://open.spotify.com/playlist/5ZzbMtIJrREtrHK9uRuk2C?si=7cc6eb29a692403c)  
+
 > ⚡ **"Kod yazarken, sanat yapıyoruz!"** ⚡  
