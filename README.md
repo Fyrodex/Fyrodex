@@ -32,7 +32,7 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 ---
 
 ### 📊 GitHub İstatistiklerim
-div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fyrodex&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=e7ffae&text_color=fff"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Fyrodex&theme=dark&hide_border=true&border_radius=20&locale=tr&card_height=208&background=000000&sideNums=EBD20C&ring=DD0000&sideLabels=EBD20C"/>
 </div>
