@@ -18,7 +18,7 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 
 ### 🚀 Projelerim  
 
-- 📁 [@Fyrodex/xpath-agent](https://github.com/Fyrodex/xpath-agent): XPath temelli otomasyon ve test aracı.
+- 📁 [@Fyrodex/xpath-agent](https://github.com/Fyrodex/xpathagent): Web Test Otomasyonu için Uyarlanabilir Kendini İyileştiren XPath Platformu.
 - 📁 [@Fyrodex/stress-test](https://github.com/Fyrodex/stress-test): Yük/stres testi senaryoları oluşturmak ve yönetmek için geliştirilmiş 3 aşamalı stres testi.
 
 ---
